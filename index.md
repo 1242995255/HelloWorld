@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/1242995255/HelloWorld/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1242995255/HelloWorld/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</head>my page
+ 
+<body>
+<div id="aa">
+  <div id="cc">                                                            青春     奔放    活泼    热情&copy;</div>
+  <div id="bb">
+    <div id="ee">
+      <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><hr /></td>
+        </tr>
+        <tr>
+          <td><p>姓名：严楚翔</p></td>
+        </tr>
+        <tr>
+          <td>性别：男</td>
+        </tr>
+        <tr>
+          <td>年龄：19</td>
+        </tr>
+        <tr>
+          <td>家乡：<a href="http://baike.baidu.com/link?url=ZkJSggcN2Nl7Xe0HaB0hSRrMkIdo-VGCNJWpbPIWNt1-M7xPr4FkF2qdxHGCMz3lT0LdGTsXi5zMtwMWKZ5S3Pz8elmt9ATA1omMMMfTIBSdG430mMTTJk0MyAlQO88B">慈溪 宁波 浙江 CN</a></td>
+        </tr>
+        <tr>
+          <td>就读院校：<a href="http://baike.baidu.com/item/%E5%9B%9B%E5%B7%9D%E5%A4%A7%%A6">浙江万里学院</a></td>
+        </tr>
+        <tr>
+          <td>就读专业：<a href="http://baike.baidu.com/item/%E5%BE%AE%E7%94%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A">通信工程</a></td>
+        </tr>
+        <tr>
+        <tr>
+          <td>兴趣爱好：听歌</td>
+        </tr>
+        <tr>
+          <td>政治面貌：团员</td>
+        </tr>
+        <tr>
+          <td>联系电话：5258182113</td>
+        </tr>
+        <tr>
+          <td>Email:242995255@qq.com</td>
+        </tr>
+        <tr>
+          <td>关键词：学生</td>
+        </tr>
+        <tr>
+          <td> </td>
+        </tr>
+      </table>
+    </div>
+    <img src="img/1497103056360.jpg" width="1398" height="403" /></div>
+  <div id="ff">
+    <div id="gg">
+      <p> </p>
+      <p> </p>
+      <p> </p>
+      <p><a href="zhuye.html">回到主页</a></p>
+      <form id="form1" name="form1" method="post" action="">
+      </form>
+    </div>
+  About  me</div>
+</div>
+</body>
+</html>
